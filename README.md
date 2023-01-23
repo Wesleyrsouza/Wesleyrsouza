@@ -1,4 +1,4 @@
-## Olá, Bem vindo ao meu perfil! Eu sou Wesley Souza
+## Olá, Bem vindo ao meu perfil!
 
 - 🔭 Programador Front-End 
 - 🌱 Estudando HTML e CSS
