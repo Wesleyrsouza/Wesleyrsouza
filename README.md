@@ -1,6 +1,6 @@
 ## Olá, Bem vindo ao meu perfil! Eu sou Wesley Souza
 
-- 🔭 Programador Front end 
+- 🔭 Programador Front-End 
 - 🌱 Estudando HTML e CSS
 
 <div align="center">
