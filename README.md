@@ -1,7 +1,6 @@
 ## Olá, Bem vindo ao meu perfil!
 
-- 🔭 <a href="https://www.devmedia.com.br/certificado/tecnologia/programacao/wesley-rodrigues-souza-1">Programador</a> Front-End 
-- 🌱 Estudando <a href="https://www.devmedia.com.br/certificado/tecnologia/html/wesley-rodrigues-souza-1">HTML</a> e <a href="https://www.devmedia.com.br/certificado/tecnologia/css/wesley-rodrigues-souza-1">CSS</a>
+- 🌱 Estudando análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/Wesleyrsouza">
@@ -11,6 +10,10 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    
 </div>
   
   ##
