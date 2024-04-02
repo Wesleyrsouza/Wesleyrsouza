@@ -1,7 +1,7 @@
 ## Olá, Bem vindo ao meu perfil!
 
-- 🔭 <a href="https://www.devmedia.com.br/certificado/tecnologia/programacao/wesley-rodrigues-souza-1">Programador</a> Front-End 
-- 🌱 Estudando <a href="https://www.devmedia.com.br/certificado/tecnologia/html/wesley-rodrigues-souza-1">HTML</a> e <a href="https://www.devmedia.com.br/certificado/tecnologia/css/wesley-rodrigues-souza-1">CSS</a>
+
+- 🌱 Cursando análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/Wesleyrsouza">
