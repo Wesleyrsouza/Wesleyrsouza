@@ -29,7 +29,13 @@
   <a href="https://www.instagram.com/wesleysouzawr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wesleysouzasr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-souza-147405206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wesleyrsouza.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/-NAME-%COLOR?style=for-the-badge&logo=LOGO&logoColor=white" target="_blank"></a>
+<a href="https://seu-portifolio-link" target="_blank">
+  <img src="https://img.shields.io/badge/-Portf%C3%B3lio-%23FFB74D?style=for-the-badge&logoColor=white" alt="Portfólio">
+</a>
+
+
+
+
 
   
   <!-- 
