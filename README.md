@@ -4,7 +4,6 @@ Analista de QA com foco em automação de testes Web. Trabalho com testes manuai
 
 - 🧪 Automação de testes Web com Java, Selenium e Cucumber
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔧 Técnico em Mecatrônica
 
 ### Ferramentas
 
